@@ -5,10 +5,10 @@ The covered topics in this course are as in the below:
 
 - Introduction to Verilog Language
 - Implementing:
-- - Implementing own Basic Gates (AND, OR, NAND)
-- - Implementing Half and Full Adders
-- - Implementing Latches and FlipFlops
-- - Implementing Sequential Logic Gates
-- - Implementing Data Bus and Memory Design
-- - Implementing Mini Computer
-- - Implementing Cryptography Machines
+  - own Basic Gates (AND, OR, NAND)
+  - Half and Full Adders
+  - Latches and FlipFlops
+  - Sequential Logic Gates
+  - Data Bus and Memory Design
+  - Mini Computer
+  - Cryptography Machines
